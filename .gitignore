@@ -1,0 +1,13 @@
+# Idea settings for all projects
+
+.idea/
+**/.idea/
+
+
+# Build results
+
+[Dd]ebug/
+[Rr]elease/
+x64/
+[Bb]in/
+[Oo]bj/
